@@ -10,6 +10,9 @@
 - Automatically fetch the remaining commit history after the shallow clone.
 - Dynamically determines the repository directory name for seamless navigation.
 - Works with any Git repository URL.
+- 
+- git clone https://github.com/jamieduk/slow-network-git-getter.git
+- 
 - https://jnet.forumotion.com/t2069-slow-network-git-getter-bash-script-for-linux#3201
 ---
 
